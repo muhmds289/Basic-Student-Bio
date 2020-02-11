@@ -1,0 +1,141 @@
+#page {
+    margin: 0;
+    padding: 0;
+    border-color: gray;
+    border: 10px;
+}
+
+
+.body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    display: block;
+}
+
+.myname {
+    background: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    padding: 20px;
+    font-size: 2em;
+    margin-left: -20px;
+}
+
+.header {
+    margin: auto;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    width: 960px;
+}
+
+span {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.main {
+    margin: auto;
+    background-color: white;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    padding: 20px;
+    padding-left: 20px;
+    border-bottom: solid lightgray;
+}
+
+.sidebar {
+    float: right;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    color: gray;
+    margin-right: -20px;
+    font-size: 1.5em;
+}
+
+.content {
+    margin: auto;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    background: white;
+    padding: 20px;
+    width: 960px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    border: 2px solid lightgray;
+}
+
+.aboutme {
+    color: #4aaaa5;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    font-size: 2em;
+    background: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.bio-image {
+    margin-top: 25px;
+    margin-right: 25px;
+    float: left;
+}
+
+
+.bio {
+    color: gray;
+    background: white;
+    font-size: 1.2em;
+    padding-right: 30px;
+    padding-left: 15px;
+    line-height: 2em;
+    margin-bottom: 28px;
+}
+
+.footer {
+    background-color: #666666;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    border-top: 15px solid #4aaaa5;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+a {
+    align: center;
+    color: gray;
+}
+
+input {
+    width: 960px;
+    color: gray;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+button {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+    background: #4aaaa5;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#message {
+    height: 100px;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    color: lightgray;
+    background-color: lightgray;
+}
+
+.portfoliosize {
+    margin: auto;
+    padding-bottom: -20px;
+    width: 960px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
